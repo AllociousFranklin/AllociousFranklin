@@ -22,3 +22,6 @@ Pinned repositories below highlight projects where I focused on solving real pro
 Open to collaborating on meaningful projects, early-stage products, and ideas that value strong execution.
 
 📫 Reach out via GitHub or through linked platforms.
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/AllociousFranklin/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
+
